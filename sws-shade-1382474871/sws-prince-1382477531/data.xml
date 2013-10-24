@@ -1,9 +1,0 @@
-  <raid dpstime="100" start="1382477531190" dps="2795" comment="Prince Malchezaar try 3" lg="6467219" dmg="301296" dir="sws-prince-1382477531" zone="karazhan">
-    <player dmgout="30.5168339440285" heal="0.463113045894503" name="Xezz" pres="100" dmgin="6.30185904841928" ovh="82" dps="938" dpstime="93.6542816252813" classe="war" decurse="0" death="1" />
-    <player dmgout="24.1420397217354" heal="0" name="Glorydays" pres="100" dmgin="3.45933868673077" ovh="0" dps="768" dpstime="98.4554458945354" classe="mag" decurse="0" death="1" />
-    <player dmgout="23.9219903350858" heal="1.46652464533259" name="Kaerina" pres="100" dmgin="2.06242659766449" ovh="60" dps="756" dpstime="96.9620874147418" classe="hnt" decurse="0" death="1" />
-    <player dmgout="11.6211300515108" heal="0" name="Violenthia" pres="100" dmgin="70.1167753578215" ovh="0" dps="398" dpstime="98.9303732430358" classe="war" decurse="0" death="1" />
-    <player dmgout="9.79800594763953" heal="0" name="Mograiner" pres="100" dmgin="12.3306375380737" ovh="0" dps="304" dpstime="90.2318497771783" classe="pal" decurse="0" death="0" />
-    <player dmgout="0" heal="46.3529847635808" name="Deluxebabe" pres="100" dmgin="2.86448138564513" ovh="52" dps="0" dpstime="0" classe="pal" decurse="3" death="1" />
-    <player dmgout="0" heal="51.7173775451921" name="Restoh" pres="100" dmgin="2.86448138564513" ovh="63" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
-  </raid>

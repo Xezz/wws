@@ -1,9 +1,0 @@
-  <raid dpstime="100" start="1382473736838" dps="4193" comment="Terestian Illhoof" lg="8358599" dmg="584179" dir="sws-illhoof-1382473736" zone="karazhan">
-    <player dmgout="34.5171599800746" heal="0.785514941120414" name="Xezz" pres="100" dmgin="2.77230004865931" ovh="55" dps="1434" dpstime="101.086386459994" classe="war" decurse="0" death="0" />
-    <player dmgout="27.5333416641132" heal="0" name="Glorydays" pres="100" dmgin="0.985350987271749" ovh="0" dps="1188" dpstime="98.6465924785203" classe="mag" decurse="0" death="0" />
-    <player dmgout="19.218424489754" heal="0" name="Kaerina" pres="100" dmgin="10.3605910825416" ovh="0" dps="817" dpstime="99.1946066028294" classe="hnt" decurse="0" death="0" />
-    <player dmgout="13.3298184289404" heal="0" name="Mograiner" pres="100" dmgin="81.0203088585551" ovh="0" dps="544" dpstime="102.822149311442" classe="pal" decurse="0" death="0" />
-    <player dmgout="5.17409903471368" heal="0" name="Violenthia" pres="100" dmgin="0.264424923809768" ovh="0" dps="220" dpstime="99.564328275485" classe="war" decurse="0" death="0" />
-    <player dmgout="0.227156402404058" heal="40.6078551494112" name="Deluxebabe" pres="100" dmgin="3.8159141547366" ovh="26" dps="26" dpstime="37.257031304624" classe="pal" decurse="0" death="0" />
-    <player dmgout="0" heal="58.6066299094684" name="Restoh" pres="100" dmgin="0.781109944425948" ovh="45" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
-  </raid>
