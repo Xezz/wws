@@ -1,0 +1,9 @@
+  <raid dpstime="100" start="1382387064854" dps="1953" comment="Attumen the Huntsman try 1" lg="11933579" dmg="388443" dir="sws-attumen-1382387064" zone="karazhan">
+    <player dmgout="24.2130763072059" heal="0.20185708518369" name="Bukser" pres="100" dmgin="1.59722394348742" dps="574" ovh="93" dpstime="84.6715969279413" classe="war" decurse="0" death="0" />
+    <player dmgout="22.3327489490092" heal="0" name="Mariia" pres="100" dmgin="4.65782624860578" ovh="0" dps="1046" dpstime="94.6167268856289" classe="mag" decurse="0" death="1" />
+    <player dmgout="18.6313049791089" heal="0" name="Tanaria" pres="100" dmgin="4.74309084149213" ovh="0" dps="932" dpstime="93.58025872791" classe="mag" decurse="0" death="1" />
+    <player dmgout="12.0275046789362" heal="0" name="Augmented" pres="100" dmgin="5.16941380592391" ovh="0" dps="689" dpstime="82.8916836589035" classe="mag" decurse="7" death="1" />
+    <player dmgout="11.260596792837" heal="0" name="Violenthia" pres="100" dmgin="49.9918205477754" ovh="0" dps="261" dpstime="92.8520494202355" classe="war" decurse="0" death="0" />
+    <player dmgout="11.0863112477249" heal="0" name="Mograiner" pres="100" dmgin="22.5842111785847" ovh="0" dps="256" dpstime="85.0764365445703" classe="pal" decurse="0" death="0" />
+    <player dmgout="0.4484570451778" heal="99.7981429148163" name="Deluxebabe" pres="100" dmgin="11.2564134341306" ovh="19" dps="31" dpstime="30.2994220875288" classe="pal" decurse="0" death="0" />
+  </raid>

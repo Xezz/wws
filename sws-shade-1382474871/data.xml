@@ -1,0 +1,9 @@
+  <raid dpstime="100" start="1382474871763" dps="2304" comment="Shade of Aran" lg="12100679" dmg="464792" dir="sws-shade-1382474871" zone="karazhan">
+    <player dmgout="46.5844937090139" heal="0" name="Xezz" pres="100" dmgin="3.83103146562704" ovh="0" dps="1244" dpstime="86.6057747728719" classe="war" decurse="0" death="0" />
+    <player dmgout="23.0488046265857" heal="0" name="Glorydays" pres="100" dmgin="6.91833999712036" ovh="0" dps="695" dpstime="82.7968410277612" classe="mag" decurse="0" death="0" />
+    <player dmgout="10.9436048813233" heal="2.67825930060782" name="Kaerina" pres="100" dmgin="9.34056197321933" ovh="0" dps="478" dpstime="77.3643152682204" classe="hnt" decurse="0" death="0" />
+    <player dmgout="10.6641250279695" heal="0" name="Violenthia" pres="100" dmgin="14.9054702123182" ovh="0" dps="333" dpstime="74.0183747418438" classe="war" decurse="0" death="0" />
+    <player dmgout="8.75897175510766" heal="0" name="Mograiner" pres="100" dmgin="11.7976719201675" ovh="0" dps="250" dpstime="81.1455360933958" classe="pal" decurse="0" death="0" />
+    <player dmgout="0" heal="60.4085614082569" name="Deluxebabe" pres="100" dmgin="26.2257860868987" ovh="19" dps="0" dpstime="0" classe="pal" decurse="2" death="1" />
+    <player dmgout="0" heal="36.9131792911352" name="Restoh" pres="100" dmgin="26.9811383446488" ovh="54" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
+  </raid>

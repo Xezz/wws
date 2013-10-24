@@ -1,0 +1,22 @@
+  <raid dpstime="100" start="1382651758990" dps="2620" comment="High King Maulgar try 3" lg="9134400" dmg="398941" dir="sws-maulgar-1382651758" zone="gruul">
+    <player dmgout="18.6035027735931" heal="1.49633957154049" name="Diablerien" pres="100" dmgin="4.47273315891012" ovh="0" dps="523" dpstime="95.9043746364306" classe="hnt" decurse="0" death="0" />
+    <player dmgout="16.6836700163683" heal="0.506389535999834" name="Kaerina" pres="100" dmgin="0.904490076376226" ovh="60" dps="481" dpstime="92.4057395350145" classe="hnt" decurse="1" death="0" />
+    <player dmgout="13.6150458338451" heal="0" name="Tanaria" pres="100" dmgin="1.50985094743519" ovh="0" dps="614" dpstime="59.1015932795911" classe="mag" decurse="1" death="0" />
+    <player dmgout="11.0876044327357" heal="0" name="Mariia" pres="100" dmgin="3.60540711963847" ovh="0" dps="972" dpstime="40.6634225433089" classe="mag" decurse="0" death="1" />
+    <player dmgout="8.98854717865549" heal="0.429341537950679" name="Shadowdeathh" pres="100" dmgin="2.70157773725521" ovh="87" dps="605" dpstime="52.5887443492634" classe="pri" decurse="0" death="1" />
+    <player dmgout="6.67316721018897" heal="1.0376834754095" name="Xezz" pres="100" dmgin="3.37548561008483" ovh="15" dps="443" dpstime="39.7551495913462" classe="war" decurse="0" death="0" />
+    <player dmgout="4.23822068927486" heal="0" name="Xearah" pres="100" dmgin="2.64839187082111" ovh="0" dps="257" dpstime="48.9582248321904" classe="rog" decurse="0" death="1" />
+    <player dmgout="4.09358777363069" heal="0" name="Wanageeska" pres="100" dmgin="23.9371085388092" ovh="0" dps="195" dpstime="63.3810050232628" classe="war" decurse="0" death="1" />
+    <player dmgout="3.76797571570734" heal="1.31085365031105" name="Saigo" pres="100" dmgin="2.95065937260498" ovh="0" dps="555" dpstime="20.0317566398659" classe="rog" decurse="0" death="0" />
+    <player dmgout="3.05082706465367" heal="0" name="Quiven" pres="100" dmgin="6.35026031343323" ovh="0" dps="367" dpstime="98.3016184846494" classe="mag" decurse="1" death="1" />
+    <player dmgout="2.70240461622145" heal="0" name="Twistar" pres="100" dmgin="2.75079943973149" ovh="0" dps="343" dpstime="25.6283454620204" classe="rog" decurse="0" death="1" />
+    <player dmgout="2.63848539007021" heal="1.6003673399503" name="Shadowcola" pres="100" dmgin="3.39183778641085" ovh="82" dps="590" dpstime="16.0999692706947" classe="pri" decurse="0" death="1" />
+    <player dmgout="2.08878004516959" heal="0" name="Violenthia" pres="100" dmgin="10.127447871244" ovh="0" dps="242" dpstime="33.1305122984351" classe="war" decurse="0" death="1" />
+    <player dmgout="1.47114485600628" heal="0.242817933245822" name="Capwnadin" pres="100" dmgin="15.6341671291525" ovh="0" dps="104" dpstime="43.4426606895463" classe="pal" decurse="0" death="1" />
+    <player dmgout="0.29703640387927" heal="17.8286992118794" name="Ogannisian" pres="100" dmgin="3.16422870583261" ovh="33" dps="0" dpstime="0" classe="sha" decurse="0" death="0" />
+    <player dmgout="0" heal="20.5850459434359" name="Deluxebabe" pres="100" dmgin="3.07701709876054" ovh="38" dps="0" dpstime="0" classe="pal" decurse="0" death="1" />
+    <player dmgout="0" heal="11.2495265569143" name="Restoh" pres="100" dmgin="0.825041623721557" ovh="58" dps="0" dpstime="0" classe="drd" decurse="0" death="0" />
+    <player dmgout="0" heal="17.451501268568" name="Kemmotar" pres="100" dmgin="2.79638732524644" ovh="31" dps="0" dpstime="0" classe="drd" decurse="0" death="1" />
+    <player dmgout="0" heal="12.3943508511599" name="Cylora" pres="100" dmgin="2.07788260789133" ovh="33" dps="0" dpstime="0" classe="pri" decurse="0" death="1" />
+    <player dmgout="0" heal="13.8670831236348" name="Missymiss" pres="100" dmgin="3.69922566664024" ovh="51" dps="0" dpstime="0" classe="pal" decurse="0" death="1" />
+  </raid>
